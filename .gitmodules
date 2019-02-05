@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:elswit/elswit.github.io.git
+	branch = master

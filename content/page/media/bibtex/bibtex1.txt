@@ -1,0 +1,14 @@
+@article{Sarshar2017anumerical,
+title = "A numerical investigation of matrix-free implicit time-stepping methods for large \{CFD\} simulations ",
+journal = "Computers & Fluids ",
+volume = "159",
+number = "",
+pages = "53 - 63",
+year = "2017",
+note = "",
+issn = "0045-7930",
+doi = "https://doi.org/10.1016/j.compfluid.2017.09.014",
+url = "http://www.sciencedirect.com/science/article/pii/S0045793017303493",
+author = "Arash Sarshar and Paul Tranquilli and Brent Pickering and Andrew McCall and Christopher J. Roy and Adrian Sandu"
+}
+

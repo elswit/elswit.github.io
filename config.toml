@@ -1,0 +1,53 @@
+baseurl = "http://people.cs.vt.edu/sarshar/"
+title = "Home"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "Arash Sarshar"
+googleAnalytics = "UA-92277092-1"
+
+[Author]
+    name = "Arash Sarshar"
+    profile = "http://people.cs.vt.edu/sarshar/pages/resume"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "Arash Sarshar "
+    description = "Academic WebPage"
+    github = "https://bitbucket.org/sarshar/"
+    gitlab = "https://git.cs.vt.edu/csl"
+    linkedin = "https://www.linkedin.com/in/arashsarshar/"
+    gplus = "https://www.youtube.com/channel/UCnNyZumEhowjZd6kg4gVItA"
+    stackoverflow = "http://stackexchange.com/users/3057397/arash-sarshar?tab=accounts"
+    email = "sarshar@vt.edu"
+    opengraph = true
+    shareTwitter = false
+    shareFacebook = true
+    shareGooglePlus = false
+    shareLinkedIn = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+
+[[menu.main]]
+    name = "Resume"
+    url = "/page/resume"
+    weight = 1
+
+
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+
+[[menu.main]]
+    name = "Publications"
+    url = "/page/publications"
+    weight = 3
+

@@ -1,0 +1,12 @@
+@INPROCEEDINGS{sarshar2013design, 
+author={A. Sarshar and A. E. Tabari}, 
+booktitle={2013 7th European Conference on Antennas and Propagation (EuCAP)}, 
+title={Design of a stacked stub-loaded patch element for X-band reflectarray antenna with true time delay}, 
+year={2013}, 
+volume={}, 
+number={}, 
+pages={3343-3346}, 
+keywords={antenna radiation patterns;impedance matching;microstrip antennas;reflectarray antennas;X-band linear polarization reflectarray antenna;geometric parameter;impedance matching;infinite array method;multilayer reflectarray element;phase delay;phase diagram;radiating patch;stacked stub-loaded patch element;stub line;time delay;Antenna arrays;Antenna feeds;Arrays;Bandwidth;Delay effects;Reflectarray;Stub-loaded Patch Element;True Time Delay}, 
+doi={}, 
+ISSN={}, 
+month={April},}

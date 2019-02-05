@@ -1,0 +1,14 @@
+@article{Tranquilli2017analytical,
+title = "Analytical Jacobian-vector products for the matrix-free time integration of partial differential equations ",
+journal = "Journal of Computational and Applied Mathematics ",
+volume = "310",
+number = "",
+pages = "213 - 223",
+year = "2017",
+note = "Numerical Algorithms for Scientific and Engineering Applications ",
+issn = "0377-0427",
+doi = "https://doi.org/10.1016/j.cam.2016.05.002",
+url = "http://www.sciencedirect.com/science/article/pii/S0377042716302199",
+author = "Paul Tranquilli and S. Ross Glandon and Arash Sarshar and Adrian Sandu"
+}
+
