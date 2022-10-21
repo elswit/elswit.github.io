@@ -85,7 +85,7 @@ author:
   bio              : "PhD Computer Science and Applications"
   location         : "Blacksburg"
   employer         : "Virginia Tech"
-  pubmed           : 
+  pubmed           : "https://arxiv.org/search/?searchtype=author&query=Sarshar%2C+A"
   googlescholar    : "https://scholar.google.com/citations?user=hqZ5XrUAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
